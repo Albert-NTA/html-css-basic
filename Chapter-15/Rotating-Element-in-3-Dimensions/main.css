@@ -1,0 +1,15 @@
+.container {
+    margin: 15px auto;
+    border: 1px solid black;
+    width: 200px;
+    height: 200px;
+}
+.box {
+    background: red;
+    width: 100%;
+    height: 100%;
+    transform: rotateX(45deg) rotateY(45deg);
+    color: white;
+    font-family: sans-serif;
+    text-align: center;
+}
